@@ -1,5 +1,8 @@
 # Belajar News App
 
+![screenshot](https://github.com/ihsanunot/Flutter-Apps-Part-Kedua/assets/127992374/e3ca2f0d-0f16-4b82-82f2-4f787caa5b0a)
+
+
 Belajar membuat aplikasi portal berita webview:
 
 1. Mengambil data dari berkas JSON lalu ditampilkan sebagai list.
